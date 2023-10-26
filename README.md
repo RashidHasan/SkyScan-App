@@ -1,8 +1,9 @@
 # SkyScan - Weather App
 
-## SkyScan Logo
+## Project Overview
 
-![SkyScan](https://github.com/RashidHasan/SkyScan-App/assets/136935583/faaf5719-2db5-4fec-9d92-0b43780d4d53)
+![SkyScan](https://github.com/RashidHasan/SkyScan-App/assets/136935583/3fa2288f-58d9-41a2-a941-b727d8bd8b7d)
+
 
 SkyScan is a simple weather app that allows you to check the weather conditions for any location in the world. With a sleek and intuitive user interface, it provides you with real-time weather information, including temperature, humidity, and wind speed. The app also displays a visual representation of the weather conditions, making it easy to understand at a glance.
 Features
